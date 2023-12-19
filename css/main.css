@@ -114,6 +114,8 @@
 .dashboard__item__button {
     display: flex;
     justify-content: center;
+    cursor:pointer;
+    user-select: none;
 
     font-weight: 700;
     font-size: 1.5rem;
